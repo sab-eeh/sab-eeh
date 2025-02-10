@@ -62,6 +62,4 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 
 - 🏋️‍♂️ When I'm not coding, I enjoy **going to the gym** and exploring new workout routines!
 
----
-
 ### Thanks for visiting! Don't forget to check out my projects and repositories. Let's connect and collaborate on exciting ventures! 🚀
