@@ -12,9 +12,9 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 
 ## 🏆 Projects
 
-- 🚀 [News Application](https://github.com/yourusername/news-application) - Built using an external API and React.js.
-- 💼 [Airline Management System](https://github.com/yourusername/airline-management) - Developed with Python.
-- 🎵 [Discord Music Bot](https://github.com/yourusername/discord-music-bot) - Built using Java for a **DSA project**.
+- 🚀 [News Application](https://github.com/sab-eeh/news-application) - Built using an external API and React.js.
+- 💼 [Airline Management System](https://github.com/sab-eeh/airline-management) - Developed with Python.
+- 🎵 [Discord Music Bot](https://github.com/sab-eeh/discord-music-bot) - Built using Java for a **DSA project**.
 
 ## 💻 Skills
 
