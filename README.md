@@ -8,7 +8,7 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 - 🌱 I'm currently learning **Python, Java, PHP, MySQL, Django,** and **Bootstrap** to expand my skills in backend development and web technologies.
 - 👯 I'm looking to collaborate on projects involving **web development** and **software engineering**.
 - 🤔 I'm interested in **learning new technologies** and **improving my coding skills**.
-- 💼 Freelancing as a **WordPress developer**.
+- 💼 Freelancing as a **WordPress developer** and **MERN Stack Developer**.
 
 ## 🏆 Projects
 
