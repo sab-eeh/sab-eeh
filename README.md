@@ -49,7 +49,7 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabeeh-uddin/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sabeehworks.online)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](usabeeh72@gmail.com)
 
 
@@ -61,6 +61,6 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 
 ## 🎉 Fun Fact
 
-- 🏋️‍♂️ When I'm not coding, I enjoy **going to the gym** and exploring new workout routines!
+- 🏋️‍♂️ When I'm not coding, I enjoy **going to the gym** and exploring new web Technologies!
 
 ### Thanks for visiting! Don't forget to check out my projects and repositories. Let's connect and collaborate on exciting ventures! 🚀
