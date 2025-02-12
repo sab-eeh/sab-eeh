@@ -5,8 +5,8 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **building responsive websites** and **developing web applications** using **React.js, Node.js, and MongoDB**.
-- 🌱 I'm currently learning **Python, Java, PHP, MySQL, Django,** and **Bootstrap** to expand my skills in backend development and web technologies.
-- 👯 I'm looking to collaborate on projects involving **web development** and **software engineering**.
+- 🌱 I'm currently learning **Python, Java, Django,** and **Node Js** to expand my skills in backend development and web technologies.
+- 👯 I'm looking to collaborate on projects involving **web development**.
 - 🤔 I'm interested in **learning new technologies** and **improving my coding skills**.
 - 💼 Freelancing as a **WordPress developer** and **MERN Stack Developer**.
 
