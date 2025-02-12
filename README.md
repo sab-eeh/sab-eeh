@@ -12,7 +12,7 @@ I'm a passionate **Web Developer** and **Computer Science student** at UIT Unive
 
 ## 🏆 Projects
 
-- 🚀 [News Application](https://github.com/sab-eeh/news-application) - Built using an external API and React.js.
+- 🚀 [News Application](https://github.com/sab-eeh/News-Application) - Built using an external API and React.js.
 - 💼 [Airline Management System](https://github.com/sab-eeh/Airline-Management-System) - Developed with Python.
 - 🎵 [Discord Music Bot](https://github.com/sab-eeh/discord-music-bot) - Built using Java for a **DSA project**.
 - 🟢 [Spotify Clone](https://github.com/sab-eeh/React-Spotify-Clone) - Built a Spotify Clone using React.js .
